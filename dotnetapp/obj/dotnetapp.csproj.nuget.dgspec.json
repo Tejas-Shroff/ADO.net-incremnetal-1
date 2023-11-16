@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\divak\\Downloads\\Week2Day1-4\\Week2Day1-4\\dotnetapp\\dotnetapp\\dotnetapp.csproj": {}
+    "/home/coder/project/workspace/dotnetapp/dotnetapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\divak\\Downloads\\Week2Day1-4\\Week2Day1-4\\dotnetapp\\dotnetapp\\dotnetapp.csproj": {
+    "/home/coder/project/workspace/dotnetapp/dotnetapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\divak\\Downloads\\Week2Day1-4\\Week2Day1-4\\dotnetapp\\dotnetapp\\dotnetapp.csproj",
+        "projectUniqueName": "/home/coder/project/workspace/dotnetapp/dotnetapp.csproj",
         "projectName": "dotnetapp",
-        "projectPath": "C:\\Users\\divak\\Downloads\\Week2Day1-4\\Week2Day1-4\\dotnetapp\\dotnetapp\\dotnetapp.csproj",
-        "packagesPath": "C:\\Users\\divak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\divak\\Downloads\\Week2Day1-4\\Week2Day1-4\\dotnetapp\\dotnetapp\\obj\\",
+        "projectPath": "/home/coder/project/workspace/dotnetapp/dotnetapp.csproj",
+        "packagesPath": "/home/coder/.nuget/packages/",
+        "outputPath": "/home/coder/project/workspace/dotnetapp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\divak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/coder/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
         }
       }
     }
