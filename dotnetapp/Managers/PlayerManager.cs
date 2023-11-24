@@ -250,7 +250,7 @@ namespace dotnetapp.Managers
         public void DeletePlayerfromDB(int playerId)
         {
             string cmdtext = "delete from Players where Id = @playerId)";
-            SqlConnection connection = null;
+            SqlConnection connection = null;https://github.com/login/device
             SqlDataAdapter adapter = null;
             DataSet ds = null;
             DataTable playerTable = null;  
